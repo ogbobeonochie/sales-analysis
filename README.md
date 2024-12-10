@@ -14,6 +14,8 @@
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
+- [Data Analysis](#data-analysis)
+
 - [Results / Findings](#results-findings)
 
 
