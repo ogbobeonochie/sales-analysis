@@ -64,11 +64,11 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
   EDA provides the means to exploring the sales data to answer critical questions such as:
 
-  -What is the overall sales trend?
+  - What is the overall sales trend?
 
-  -Which products are top sellers
+  - Which products are top sellers
 
-  -what are the peak sales period?
+  - what are the peak sales period?
 
   ## Data Analysis
 
