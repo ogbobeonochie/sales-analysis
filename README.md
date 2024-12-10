@@ -58,7 +58,7 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
     2.Handling missing values 
 
-    .Data cleaning and formatting 
+    3.Data cleaning and formatting 
 
   ## Exploratory Data Analysis
 
