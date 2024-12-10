@@ -7,6 +7,8 @@
 
 - [Results / Findings](#results-findings)
 
+- [Project Overview](#project-overview)
+
 ## Project Overview
 
 This is a python and SQL project on an imaginary supermarket called Nasa Supermarket
@@ -89,6 +91,42 @@ institution or state but just a dummy dataset to demonstrate the power of python
      
      3.Customer segment with live time value (LTV) should be targeted for 
       making efforts
+
+  ## Recommendations
+
+  
+   Based on the just concluded analysis, we here by recommended the 
+   following actions:
+
+   - Invest in marketing and promotions during peak sales seasons to 
+     maximize revenue
+
+   - Focus on the expanding and promoting products categories  cloths,
+     sockets and phones
+
+   - Implement a customer segmentation strategy to target high LTV customers 
+     effectively
+
+ ## Limitations
+
+ 
+    I have to remove all missing values and zeros from Tuesday to Friday columns 
+    because they would have impacted the accuracy of my result or conclusion from 
+    the analysis. There are still a few outliers even after the verification but even then 
+    we can still see that there is positive correlation between daily sales and products 
+
+ ## References
+
+ - SQL GUIDE for beginners by warty
+
+ - Stack overflow
+
+ - Konga website  
+
+
+
+
+
 
   
 
