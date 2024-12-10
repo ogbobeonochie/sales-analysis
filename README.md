@@ -24,6 +24,8 @@
 
 - [Limitations](#limitations)
 
+- [References](#references)
+
 
 ## Project Overview
 
