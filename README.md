@@ -20,6 +20,8 @@
 
 - [Results / Findings](#results-findings)
 
+- [Recommendations](#recommendations)
+
 
 ## Project Overview
 
