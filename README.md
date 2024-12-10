@@ -16,6 +16,8 @@
 
 - [Data Analysis](#data-analysis)
 
+- [Visualization Result](#visualization-result)
+
 - [Results / Findings](#results-findings)
 
 
