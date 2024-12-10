@@ -5,7 +5,7 @@
 
 - [Data Source](#data-source)
 
-- [Results/Findings](#resultsfindings)
+- [Results / Findings](#results-findings)
 
 ## Project Overview
 
@@ -72,7 +72,7 @@ institution or state but just a dummy dataset to demonstrate the power of python
   select * from sales
 ```
 
-  ## Results / Findings
+  ## Results Findings
 
   The following are the summary of the analysis:
 
