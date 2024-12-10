@@ -3,7 +3,7 @@
 
 ## Table Of Contents
 
-- [Results / Findings](#ResultsFindings)
+- [Results/Findings](#ResultsFindings)
 
 ## Project Overview
 
