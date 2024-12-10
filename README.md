@@ -74,7 +74,7 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
 # Visualization Result
 
-
+https://github.com/ogbobeonochie/sales-analysis/blob/main/Figure%20overall_sales_trend.png
 
   ## Results Findings
 
