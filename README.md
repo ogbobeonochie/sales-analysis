@@ -72,6 +72,10 @@ institution or state but just a dummy dataset to demonstrate the power of python
   select * from sales
 ```
 
+# Visualization Result
+
+
+
   ## Results Findings
 
   The following are the summary of the analysis:
