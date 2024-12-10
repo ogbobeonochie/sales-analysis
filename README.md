@@ -10,6 +10,8 @@
 
 - [Tools](#tools)
 
+- [Data Cleaning Preparation](data-cleaning-preparation)
+
 - [Results / Findings](#results-findings)
 
 
@@ -35,7 +37,7 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
   - SQL
 
-  ## Data Cleaning / Preparation
+  ## Data Cleaning Preparation
 
   
   in the initial data preparation phase,I performed the following tasks:
