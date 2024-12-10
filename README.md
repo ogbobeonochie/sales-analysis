@@ -10,7 +10,9 @@
 
 - [Tools](#tools)
 
-- [Data Cleaning Preparation](data-cleaning-preparation)
+- [Data Cleaning Preparation](#data-cleaning-preparation)
+
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 - [Results / Findings](#results-findings)
 
