@@ -20,6 +20,8 @@
 
 - [Results / Findings](#results-findings)
 
+- [Insights](#insights)
+
 - [Recommendations](#recommendations)
 
 - [Limitations](#limitations)
@@ -111,20 +113,19 @@ institution or state but just a dummy dataset to demonstrate the power of python
      3.Customer segment with live time value (LTV) should be targeted for 
       making efforts
 
+  ## Insights
+
   ## Recommendations
 
   
    Based on the just concluded analysis, we here by recommended the 
    following actions:
 
-   - Invest in marketing and promotions during peak sales seasons to 
-     maximize revenue
+   - Developing targeted marketing campaigns to capitalize on holiday season demand 
 
-   - Focus on the expanding and promoting products categories  cloths,
-     sockets and phones
+   - Analyzing external factors,suchas weather or economic conditions to better understand their impacts on sales 
 
-   - Implement a customer segmentation strategy to target high LTV customers 
-     effectively
+   - Exploring strategies to mitigate the post-holiday season slump in January
 
  ## Limitations
 
