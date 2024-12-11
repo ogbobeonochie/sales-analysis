@@ -138,10 +138,10 @@ institution or state but just a dummy dataset to demonstrate the power of python
  ## Limitations
 
  
-    I have to remove all missing values and zeros from Tuesday to Friday columns 
+    I have to remove all missing values and filling them with zeros in al the columns 
     because they would have impacted the accuracy of my result or conclusion from 
     the analysis. There are still a few outliers even after the verification but even then 
-    we can still see that there is positive correlation between daily sales and products 
+    we can still see that there is positive correlation between Monthly and Yearly sales and products 
 
  ## References
 
