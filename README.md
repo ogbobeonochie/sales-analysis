@@ -115,6 +115,10 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
   ## Insights
 
+  This analysis provides valuable insights into the company's sales trend
+
+   - The seasonal pattern suggests that the company's sales are influenced by external factors such as holidays,weather or economic conditions 
+
   ## Recommendations
 
   
