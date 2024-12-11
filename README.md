@@ -104,7 +104,8 @@ institution or state but just a dummy dataset to demonstrate the power of python
      1.The supermarket sales has been steadily increasing over the past year,
      with noticeable peak during the holiday seasons
 
-     2.Product category cloths,sockets and phones are the best performing 
+     2.Product category Apple smart phone,Cisco Smart Phone,Motorola Smart Phone,Nokia Smart Phone, Canon Image CLASS 2200 Advanced Copier,Hon Executive Leather Armchair Adjustible, Office Star Executive Leather 
+     Armchair,Harbour Creations Executive Leather Armchair Adjustible,Samsung Smart Phone and Nokia Smart with Caller ID are the best performing 
      category in terms of sales and revenue generation
      
      3.Customer segment with live time value (LTV) should be targeted for 
