@@ -34,10 +34,12 @@
 ## Project Overview
 
 This is a python and SQL project on an imaginary supermarket called Nasa Supermarket
-the analysis project objectives is to analyze and glean insight into the sales performance of onochie supermarket for the period of year 2011 to 2014.By analyzing various aspects of the sales data, we want to identify trends, make data driven recommendation, and gain a deeper understanding of the supermarket's(company) performance to answer critical questions and help the supermarket make data-driven decisions. 
+the analysis project objectives is to analyze and glean insight into the sales performance of onochie supermarket for the period of year 2011 to 2014.
+By analyzing various aspects of the sales data, we want to identify trends, make data driven recommendation, 
+and gain a deeper understanding of the supermarket's(company) performance to answer critical questions and help the supermarket make data-driven decisions. 
 Disclaimer: All dataset and reports here do not represent any company,
 institution or state but just a dummy dataset to demonstrate the power of python and SQL in data
-  analysis
+analysis
 
   ## Data Source
 
@@ -108,8 +110,10 @@ institution or state but just a dummy dataset to demonstrate the power of python
      1.The supermarket sales has been steadily increasing over the past year,
      with noticeable peak during the holiday seasons
 
-     2.Product category Apple smart phone,Cisco Smart Phone,Motorola Smart Phone,Nokia Smart Phone, Canon Image CLASS 2200 Advanced Copier,Hon Executive Leather Armchair Adjustible, Office Star Executive Leather 
-     Armchair,Harbour Creations Executive Leather Armchair Adjustible,Samsung Smart Phone and Nokia Smart with Caller ID are the best performing 
+     2.Product category Apple smart phone,Cisco Smart Phone,Motorola Smart Phone,Nokia Smart Phone,
+     Canon Image CLASS 2200 Advanced Copier,Hon Executive Leather Armchair Adjustible, Office Star Executive Leather 
+     Armchair,Harbour Creations Executive Leather Armchair Adjustible,Samsung Smart Phone and
+     Nokia Smart with Caller ID are the best performing 
      category in terms of sales and revenue generation
      
      3.Customer segment with live time value (LTV) should be targeted for 
@@ -147,7 +151,8 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
  ## Takeaways
 
-    This project demonstrates the importance of time series analysis in understanding sales trends and informing businesss decisions.By leveraging data analytics and visualization techniques,businesses can gain insights 
+    This project demonstrates the importance of time series analysis in understanding sales trends and informing businesss decisions.
+    By leveraging data analytics and visualization techniques,businesses can gain insights 
     into their sales performance and make data-driven decisions to drive growth 
 
  ## References
