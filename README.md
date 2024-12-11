@@ -30,7 +30,7 @@
 ## Project Overview
 
 This is a python and SQL project on an imaginary supermarket called Nasa Supermarket
-the analysis project objectives is to analyze and glean insight into the sales performance of Nasa supermarket for the year 2023 .By analyzing various aspects of the sales data, we want to identify trends, make data driven recommendation, and gain a deeper understanding of the supermarket's(company) performance to answer critical questions and help the supermarket make data-driven decisions. 
+the analysis project objectives is to analyze and glean insight into the sales performance of onochie supermarket for the period of year 2011 to 2014.By analyzing various aspects of the sales data, we want to identify trends, make data driven recommendation, and gain a deeper understanding of the supermarket's(company) performance to answer critical questions and help the supermarket make data-driven decisions. 
 Disclaimer: All dataset and reports here do not represent any company,
 institution or state but just a dummy dataset to demonstrate the power of python and SQL in data
   analysis
@@ -80,7 +80,7 @@ institution or state but just a dummy dataset to demonstrate the power of python
   
   ```python
   
-  sales_df = pd.read_csv("C:/Users/Nasa/Databankanalysis/Dataframes/sales.csv")
+  df = pd.read_excel("C:\\Users\\HP\\Downloads\\superstore_sales.xlsx")
   ```
 
   ```python
