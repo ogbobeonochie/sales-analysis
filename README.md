@@ -117,7 +117,11 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
   This analysis provides valuable insights into the company's sales trend
 
-   - The seasonal pattern suggests that the company's sales are influenced by external factors such as holidays,weather or economic conditions 
+   - The seasonal pattern suggests that the company's sales are influenced by external factors such as holidays,weather or economic conditions
+
+   - The consistent peak in sales during November and December indicates a strong holiday season demand
+
+   - The drop in sales in January may be due to post-holiday season slump 
 
   ## Recommendations
 
