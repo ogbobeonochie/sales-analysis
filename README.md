@@ -147,6 +147,9 @@ institution or state but just a dummy dataset to demonstrate the power of python
 
  ## Takeaways
 
+    This project demonstrates the importance of time series analysis in understanding sales trends and informing businesss decisions.By leveraging data analytics and visualization techniques,businesses can gain insights 
+    into their sales performance and make data-driven decisions to drive growth 
+
  ## References
 
  - SQL GUIDE for beginners by warty
